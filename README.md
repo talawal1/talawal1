@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi👋 I'm Teslim
 
-<!--
-**talawal1/talawal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am a student pursuing an Advanced Diploma in Computer Programming and Analysis at Seneca College, Toronto
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Recently completed Foundations of Cybersecurity and Play It Safe: Manage Security Risks in Google's Cybersecurity Professional Certificate.
+- 👨‍💻 Learning Objected Oriented Development with C++, Web development and Software Testing using tools such as Jira and SCRUM principles.
+- 🥅 2023 Goals: I'm looking to build projects, develop my portfolio and connect with amazing developers.
+
+### I'm passionate about programming, solving problema and always looking for new opportunities to learn and grow. Feel free to reach out and connect with me. Let's make amazing things happen together!
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/teslim-lawal)
+- [Twitter](https://twitter.com/teslimkorede)
